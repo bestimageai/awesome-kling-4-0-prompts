@@ -1,0 +1,24 @@
+name: Request a scene
+description: Describe a creative task the library should cover.
+title: "[Scene]: "
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What should the finished clip show?
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: What starting material do you have?
+      description: Describe images, footage, or a written idea without sharing private material.
+    validations:
+      required: true
+  - type: textarea
+    id: difficulty
+    attributes:
+      label: What is difficult to control?
+      description: For example, hand contact, a final pose, a camera path, or dialogue timing.
+    validations:
+      required: true

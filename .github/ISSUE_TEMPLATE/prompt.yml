@@ -1,0 +1,70 @@
+name: Share a Kling 4.0 prompt
+description: Contribute a complete scene with input roles and a review target.
+title: "[Prompt]: "
+body:
+  - type: input
+    id: scene
+    attributes:
+      label: Scene title and purpose
+    validations:
+      required: true
+  - type: dropdown
+    id: workflow
+    attributes:
+      label: Workflow
+      options:
+        - Text to video
+        - Image to video
+        - Omni Reference
+        - Video edit
+        - Keyframes
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Required inputs and roles
+      description: Explain what each image, video, or voice reference controls. Write "None" for a text-only scene.
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Complete prompt
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: Adjustable details and review target
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Verification status
+      options:
+        - Recipe only
+        - Tested with a shareable result
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result and settings
+      description: For a test, include model, platform, settings, observations, and a result link you may share.
+  - type: textarea
+    id: source
+    attributes:
+      label: Source and media rights
+      description: Identify creators and permissions for attached material.
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Contribution terms
+      options:
+        - label: I wrote this prompt or have permission to contribute it under the MIT license.
+          required: true
+        - label: I may share the attached media and have removed private data and credentials.
+          required: true
