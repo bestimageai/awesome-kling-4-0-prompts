@@ -2,18 +2,29 @@
 
 [Catalog](README.md) · [Official camera example](../docs/official-examples.md#o03)
 
-Separate the subject's route from the camera's route. Each recipe has a visible start, contact event, and stopping point.
+Direct sports action, fictional flight, fantasy reveals, and smaller motion studies. Separate the subject’s route from the camera’s route, and make contact, clearance, or deceleration visible.
 
 <a id="k037"></a>
-## K037 — The rolling orange
+## K037 — The last hurdle
 
-**Use:** a low-angle tracking exercise. **Mode:** text to video. **Brief:** 8 seconds, 16:9. **Inputs:** none.
+**Use:** a sports campaign built around preparation, clearance, and recovery. **Mode:** text to video. **Brief:** 15 seconds, 16:9. **Inputs:** none.
+
+**Directing idea:** The central action stays in one shot so an edit cannot hide missing contact or an impossible landing. The surrounding shots give the action a campaign rhythm.
 
 ```text
-One orange rolls from left to right across a wooden kitchen table after an adult hand gives it a gentle push. Track alongside it at table height, keeping its textured peel sharp while the kitchen behind it blurs. A folded cloth lies across the route. The orange reaches the cloth, slows, and stops against its first fold. The camera decelerates with it and holds. Hear peel brushing wood and a soft cloth contact. Keep the orange round, the table level, and the cloth stationary. No dialogue, subtitles, music, or cut.
+ATHLETE AND COURSE
+One adult hurdler in a cobalt training kit and plain white shoes approaches a single low practice hurdle on a dry outdoor track. No other hurdles or athletes. Late-afternoon sun casts a consistent shadow toward the near side. Travel remains screen left to right in every shot.
+
+THREE SHOTS
+0–4s: Medium side-tracking view. The athlete takes three accelerating approach strides. Keep full feet visible, with a brief grounded phase on each stride. Track alongside without overtaking.
+4–10s: Cut to a wider side view just before takeoff. Show the full clearance in this shot: one foot pushes off, the lead leg passes over the hurdle, the bent trailing leg clears it, and the lead foot lands beyond it. Use smooth moderate slow motion, not a freeze. The hurdle stays stationary and untouched.
+10–15s: Cut after landing to a forward three-quarter view on the same side of the travel axis. The athlete takes two recovery strides and eases into a jog. Camera decelerates independently, allowing the athlete to move toward the right third. Finish with usable empty track on the left.
+
+SOUND AND CHECKS
+Match footfalls to visible ground contacts, with breath and a brief clothing swish during flight. No impact sound at the hurdle. Keep the same shoe design, lane markings, and leg anatomy. No captions, crowd, music, duplicated limbs, second jump, or backward travel.
 ```
 
-**Adjust:** table length, cloth color. **Review:** rotation agrees with travel; slowing starts at contact.
+**Adjust:** kit color, camera distance, and natural versus moderate slow-motion clearance. **Review:** takeoff, clearance, and landing occur in one unbroken view; no foot skates across the track; screen direction survives cuts.
 
 <a id="k038"></a>
 ## K038 — A skater's gentle turn
@@ -27,15 +38,26 @@ An adult roller skater wearing a helmet and pads glides slowly through an empty 
 **Adjust:** court colors, wardrobe. **Review:** wheels contact ground; lean matches the turn; camera and subject slow separately.
 
 <a id="k039"></a>
-## K039 — Shuttle landing
+## K039 — Drone through the service ring
 
-**Use:** a sports detail cutaway. **Mode:** text to video. **Brief:** 8 seconds, 16:9. **Inputs:** none.
+**Use:** a science-fiction game cinematic with readable flight geography. **Mode:** text to video. **Brief:** 15 seconds, 16:9. **Inputs:** none.
+
+**Directing idea:** A single obstacle and a shared corridor make a complex moving-camera shot inspectable. The braking beat gives the fictional vehicle weight without adding a second stunt.
 
 ```text
-At floor level on an indoor badminton court, follow one shuttlecock descending into an empty service box. It lands cork-first, tips onto its feather skirt, and rocks once before settling. Make a short downward tilt to follow the landing, then hold with the court line visible behind it. The feather structure stays intact and the cork remains attached. Soft overhead light casts a compact shadow that meets the shuttle at impact. Sound: one light floor tap and a short feather rustle, with distant indoor ambience. No racket, people entering, speech, or music.
+WORLD
+Inside an empty orbital maintenance bay, one original inspection drone has a compact orange body, four recessed thrusters, and one white front light. A single stationary service ring stands ahead on the bay's centerline. The drone is small enough to pass through its open center with generous clearance. This is a fictional spacecraft scene.
+
+CONTINUOUS CAMERA
+0–4s: Begin behind and above the hovering drone, with the ring fully visible ahead. The front light brightens once; the drone accelerates gently along the centerline.
+4–10s: Follow at a steady trailing distance as the drone passes through the ring without touching it. The ring's near edge briefly frames the drone but never hides its entire body. Keep the camera behind the drone and pass through the same opening afterward; no orbit or cut.
+10–15s: The drone brakes beyond the ring, pitches back slightly, and settles into a hover over a square landing pad without landing. The camera slows earlier, leaving both drone and the far bay wall visible. Hold the final hover for two seconds.
+
+EFFECTS AND AUDIO
+Small thruster glows respond to acceleration and braking; the body remains rigid. Use a restrained cinematic electrical hum that rises during acceleration and falls during braking, with no speech or music. No weapons, explosions, extra drones, changing ring diameter, camera-wall intersection, or instant reversal.
 ```
 
-**Adjust:** framing, court surface. **Review:** shadow converges before impact; bounce is small; feathers preserve their structure.
+**Adjust:** drone palette and bay architecture while retaining one clear flight corridor. **Review:** ring remains the same size; drone and camera cross it in order; braking precedes hover; thruster count stays four.
 
 <a id="k040"></a>
 ## K040 — Crossing behind a pillar
@@ -71,15 +93,27 @@ Close view of a thick mooring rope already secured around a dock bollard. A smal
 **Adjust:** rope color, dock material. **Review:** fixed knot; continuous fibers; lift corresponds to increasing tension.
 
 <a id="k043"></a>
-## K043 — A paper glider's arrival
+## K043 — The paper glider opens the sky
 
-**Use:** readable airborne movement. **Mode:** text to video. **Brief:** 8 seconds, 16:9. **Inputs:** none.
+**Use:** a practical-to-fantasy transition for a cinematic teaser. **Mode:** text to video. **Brief:** 15 seconds, 16:9. **Inputs:** none.
+
+**Directing idea:** The window supplies a physical transition point. Keeping the foreground object unchanged makes the world reveal legible instead of turning the entire frame into a dissolve.
 
 ```text
-One plain cream paper glider enters a quiet room from the left, glides diagonally toward a broad desk, and lands with its nose touching an open notebook. Pan gently right to follow its route without moving closer. The glider dips gradually and its shadow crosses the desk before contact. End with the wings resting on the desktop and the nose against the notebook edge. Hear a light air swish and paper landing. Preserve the folded wing shape and room layout. No hand entering, readable writing, dialogue, or music.
+STARTING SPACE
+One cream paper glider rests on a broad desk beside a fully open window. Beyond the window is a clear sunset sky. One adult hand is visible at the glider's tail. Preserve the same folded wings, pointed nose, and cream paper throughout.
+
+ONE SHOT, TWO WORLDS
+0–4s: Begin at desktop height. The hand launches the glider gently toward the open window. Track behind and slightly above it, showing the empty window opening and a clear flight path.
+4–9s: The glider passes between the window jambs without touching them; the camera follows through the same opening. As the desk leaves view, the distant clouds gradually reveal enormous floating stone arches. The transformation affects only the distant world, not the glider or window.
+9–13s: Follow the glider descending gently toward one distant arch. The closest arch grows through camera approach, with distant arches moving more slowly. Keep sunlight from the same side.
+13–15s: Let the glider bank slightly right while the camera eases to a slower forward drift. End before reaching the arch, preserving an open destination for the next shot.
+
+SOUND AND GEOMETRY
+Paper release and a close air swish become open-air wind after crossing the window. Add one sustained, wordless musical tone as the arches become visible. No cut, portal flash, text, paper-to-metal transformation, powered flight, or glider duplication. Keep the window opening wider than the wingspan.
 ```
 
-**Adjust:** paper color, room palette. **Review:** flight loses height smoothly; contact stops forward motion; wings remain connected.
+**Adjust:** paper color, sunset palette, and distant landmark shapes. **Review:** launch has hand contact; glider and camera clear the real opening; fantasy emerges in the background; parallax separates near and far arches.
 
 <a id="k044"></a>
 ## K044 — The stair landing reveal

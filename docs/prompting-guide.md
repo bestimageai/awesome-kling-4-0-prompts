@@ -49,11 +49,48 @@ A simple action may need only a beginning, middle, and ending. Several speakers 
 
 Durations and aspect ratios in this library are creative intentions. Set the actual output controls in the interface you use; writing “ten seconds” inside a prompt does not configure an API request.
 
+## Choose the right level of detail
+
+A simple movement does not need a screenplay. Keep a short paragraph when there is one subject, one camera move, and one visible change. Use a structured brief when cuts, several performers, reference roles, or sound timing would otherwise become ambiguous.
+
+For a more complex scene, organize the prompt around decisions:
+
+```text
+SCENE AND INPUTS
+Who or what appears, where the scene begins, and what each supplied asset controls.
+
+ACTION AND EDIT
+For each time interval: framing, the visible event, its physical consequence,
+and the state that must carry into the next shot.
+
+PERFORMANCE AND SOUND
+Who speaks or listens, the exact line, the pause, and the event that triggers each sound.
+
+ENDING AND CONTINUITY
+The final composition, time to settle, details that must remain, and specific changes to avoid.
+```
+
+Give each added sentence a job. Specifying ten different lens effects is less useful than explaining which hand holds the object while the other opens it.
+
+## Make the cut carry information
+
+Before cutting, note the subject's screen direction, hand assignment, prop position, and unfinished action. Begin the next shot from that same state. A closer view should reveal something the wider shot could not show.
+
+In [Ceramic lid fit](../prompts/product-films.md#k014), the first shot establishes alignment, the second shows seating and release, and the third presents the finished product. The lid remains above the opening at the first cut; contact happens in the second shot. That shared state makes the edit continuous.
+
+Some events should remain unbroken. [The last hurdle](../prompts/action-camera.md#k037) keeps takeoff, clearance, and landing together so a cut cannot conceal a missing part of the movement. [The paper glider opens the sky](../prompts/action-camera.md#k043) uses a real window opening to connect two spaces rather than hiding the transition in a flash.
+
+For a reveal, write what the viewer knows before and after the event. In [The last parcel](../prompts/cinematic-stories.md#k003), an off-screen reply changes the meaning of the courier's careful behavior. The quiet reaction afterward is part of the scene, not spare time to fill.
+
 ## Direct dialogue like a performance
 
 Name the speaker, exact words, language, delivery, and the listener's behavior. For a two-person exchange, place a pause between turns. For silent acting, describe visible changes in gaze, breath, posture, and expression.
 
 Review generated speech with a fluent speaker before using it in a campaign. A translated README is a reading aid, not a claim about speech quality in that language.
+
+Speak the dialogue aloud at the intended delivery speed before assigning time ranges. Include the listener's pause and reaction. If it does not fit, shorten the line or simplify the scene; do not rely on unnaturally fast delivery. For edits, choose a source interval that already has enough room for the replacement.
+
+For sound-led scenes, distinguish an event from its reaction. The bag must move before its rustle triggers a listener's glance. A landing sound belongs to foot contact, not to the camera cut. Keep ambience continuous across edits unless the scene actually moves to another acoustic space.
 
 ## Revise one failure at a time
 

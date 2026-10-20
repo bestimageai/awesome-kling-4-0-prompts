@@ -7,13 +7,25 @@ Prepare the images described in each entry. Use the Keyframes workflow and place
 <a id="k091"></a>
 ## K091 — From loose ribbon to wrapped gift
 
-**Use:** a controlled product endpoint. **Mode:** first and last frames. **Brief:** 12 seconds, 16:9. **Inputs:** matching images of a box with loose ribbon and the same box with a tied bow.
+**Use:** a packaging finish controlled by matching endpoint images. **Mode:** first and last frames. **Brief:** 15 seconds, 16:9. **Inputs:** matching camera views of one closed box: opening with ribbon already wrapped and crossed, with two long loose ends; closing with the same ribbon tied into a simple bow.
+
+**Directing idea:** Compatible endpoints are only part of the task: sufficient ribbon length and visible intermediate handwork are necessary for a believable connection.
 
 ```text
-Connect the supplied opening and closing images in a continuous tabletop shot. In the opening, the ribbon lies around the same closed box with its ends loose. Two adult hands bring the ends together, form a simple bow, and withdraw. Match the closing image's bow placement, box position, and ribbon length. Keep the camera, tabletop, light, and box dimensions fixed. The ribbon bends and slides through the hands without changing color. Hear fabric and paper contact. Reserve the last two seconds for the completed gift. No speech, subtitles, or music.
+ENDPOINTS
+Use the prepared opening and closing images as the beginning and end of one continuous tabletop shot. Both images show the same closed box, tabletop, ribbon, and side lighting. The opening has enough loose ribbon to form the closing bow. Keep the ribbon's crossing centered on the lid throughout.
+
+ACTION
+0–4s: Two adult hands enter from the lower edge. Each grips one existing loose end. Pull gently in opposite directions to seat the crossing against the lid; the box remains stationary.
+4–11s: Form the bow through visible handwork. Fold one end into a loop, wrap the other end around its base, and pull a second loop through. Keep the two loops and two tails connected to the original ribbon. Do not hide the whole knot behind both palms.
+11–13s: Adjust the loop sizes and tails toward the closing image, then release. The bow stays tied as the hands withdraw.
+13–15s: Hold the supplied closing arrangement with no additional camera movement.
+
+SOUND AND LIMITS
+Ribbon friction, slight paper contact, and quiet room tone. No speech or music. No lid opening, cuts, dissolve, extra ribbon, shrinking box, or instant completed knot. Preserve the ribbon width and color, and keep enough slack for every fold.
 ```
 
-**Adjust:** ribbon and box colors in both images. **Review:** endpoints match; bow forms through visible movement; hands leave before final hold.
+**Adjust:** box and ribbon references together; keep endpoint geometry and available ribbon length compatible. **Review:** bow forms from two existing ends; knot stays partly visible; no extra material appears; hands leave before final hold.
 
 <a id="k092"></a>
 ## K092 — Closed fan to open fan
@@ -51,13 +63,25 @@ Animate the flat paper cutout in the opening image into the folded paper object 
 <a id="k095"></a>
 ## K095 — Three poses at the window
 
-**Use:** a short portrait sequence. **Mode:** multiple keyframes. **Brief:** 15 seconds, 9:16. **Inputs:** three images of one authorized adult in the same room: facing window, turning, facing camera.
+**Use:** a portrait performance with timed keyframe milestones. **Mode:** multiple keyframes. **Brief:** 15 seconds, 9:16. **Inputs:** three images of the same authorized adult, wardrobe, room, and camera position: facing the window at 0s, three-quarter turn at 7s, facing camera at 13s.
+
+**Directing idea:** Explicit arrival times remove ambiguity between an image held for an interval and an image reached at one instant. The final hold gives the portrait a usable ending.
 
 ```text
-Use the three supplied images in order. For the first five seconds, the adult stands facing the window and lifts their gaze slightly. Over the next five seconds, they turn slowly toward the camera, reaching the middle image's three-quarter pose. During the final five seconds, complete the turn to the last image and hold a relaxed expression. Keep one continuous camera position, the same clothing, facial features, room, and light. Let hair and sleeves settle after the turn. Hear room ambience and soft clothing movement. No dialogue, subtitles, or music.
+KEYFRAME MAP
+The first image defines the opening pose at 0 seconds. The second defines the intermediate three-quarter pose at 7 seconds. The third defines the camera-facing pose at 13 seconds. Continue that final pose through 15 seconds. These are moments in one person's movement, not separate characters or separate scenes.
+
+PERFORMANCE
+0–3s: From the first pose, take one quiet breath and lift the gaze slightly toward the window. Shoulders remain relaxed.
+3–7s: Begin turning toward the camera in the direction shown by the middle image. Eyes lead, then head and shoulders follow; shift weight subtly so the body does not twist around fixed feet. Arrive at the middle pose at 7 seconds.
+7–13s: Complete the same turn smoothly toward the final pose. Let hair and sleeves lag slightly behind the movement and settle afterward. Arrive facing the camera at 13 seconds with a small, relaxed smile.
+13–15s: Hold eye contact without freezing breathing or blinking.
+
+CAMERA, SOUND, CONTINUITY
+Lock the camera and preserve the window, light direction, facial features, and clothing. Use quiet room tone and subtle fabric movement only. No dialogue, music, subtitles, cuts, crossfades, duplicated person, or reversal of turn direction. Match image compositions through motion rather than morphing the face.
 ```
 
-**Adjust:** compatible poses and wardrobe across images. **Review:** turn direction consistent; identity stable; three images are milestones rather than separate people.
+**Adjust:** compatible portraits and milestone timing; update image placement and written times together. **Review:** middle pose is reached at 7s and final at 13s; feet support the turn; movement remains continuous between milestones.
 
 <a id="k096"></a>
 ## K096 — A table prepared in stages

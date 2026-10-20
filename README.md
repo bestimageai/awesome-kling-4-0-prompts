@@ -17,22 +17,22 @@ English · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) ·
 
 | Your goal | Start here | What you will direct |
 | --- | --- | --- |
-| Tell a small story | [Cinematic stories](prompts/cinematic-stories.md) | A decision, a physical event, and an ending |
-| Show a product clearly | [Product films](prompts/product-films.md) | Shape, handling, material, and final composition |
+| Tell a small story | [Cinematic stories](prompts/cinematic-stories.md) | Suspense, character decisions, and emotional payoffs |
+| Show a product clearly | [Product films](prompts/product-films.md) | Advertising edits, mechanisms, material, and final composition |
 | Make a short creator clip | [Creator and social](prompts/creator-social.md) | A readable hook and a concise payoff |
 | Direct speech or expression | [Dialogue and performance](prompts/dialogue-performance.md) | Speaker turns, gaze, pauses, and reactions |
-| Keep motion readable | [Action and camera](prompts/action-camera.md) | Travel paths, contact, weight, and camera movement |
+| Keep motion readable | [Action and camera](prompts/action-camera.md) | Sports, science-fiction flight, fantasy reveals, and contact |
 | Build a handmade world | [Animation](prompts/animation-worlds.md) | Paper, clay, textile, glass, and original characters |
 | Film a tactile process | [Food and craft](prompts/food-craft.md) | Material changes caused by visible contact |
 | Create atmosphere | [Nature and spaces](prompts/nature-spaces.md) | Water, light, weather, and connected rooms |
 | Combine reference assets | [Omni Reference](prompts/omni-reference.md) | Separate roles for identity, scene, material, and motion |
 | Revise existing footage | [Video editing](prompts/video-editing.md) | A bounded change with source details preserved |
 | Reach a prepared composition | [Keyframes](prompts/keyframe-transitions.md) | Continuous action between important visual moments |
-| Explain or prepare a shot | [Design and education](prompts/design-education.md) | Clear shapes, simple demonstrations, and production studies |
+| Explain or prepare a shot | [Design and education](prompts/design-education.md) | Motion graphics, visual explanations, and production studies |
 
 ## Official Kling 4.0 examples
 
-Explore videos and reference assets published in the [official Kling 4.0 User Guide](https://kling.ai/quickstart/kling-4-model-user-guide). The gallery contains **12 example groups**, with source links and related practice recipes. Click a preview to watch the official result.
+Explore videos and reference assets published in the [official Kling 4.0 User Guide](https://kling.ai/quickstart/kling-4-model-user-guide). The gallery contains **12 example groups**, with input-role notes, directing lessons, viewing checks, and related practice recipes. Click a preview to watch the official result.
 
 | Preview | Official example |
 | --- | --- |
@@ -63,14 +63,18 @@ A continuous ten-second medium-wide shot inside a small umbrella repair shop aft
 
 ## More scenes worth trying
 
+Choose a focused exercise or a longer directing brief. The scenes below include timed action, sound decisions, and specific continuity checks.
+
 | Scene | Starting material | Creative challenge |
 | --- | --- | --- |
-| [K010 — The magnetic bookmark](prompts/product-films.md#k010) | Approved first image | Keep a hinge and page contact visible |
-| [K032 — Three people, one route](prompts/dialogue-performance.md#k032) | Three portraits | Preserve identities and line ownership |
-| [K076 — Camera path around a sculpture](prompts/omni-reference.md#k076) | Sculpture, courtyard, camera clip | Transfer movement without transferring the subject |
-| [K082 — Remove a foreground shopping bag](prompts/video-editing.md#k082) | Existing storefront footage | Reconstruct a small region while retaining the shot |
-| [K095 — Three poses at the window](prompts/keyframe-transitions.md#k095) | Three compatible portraits | Turn prepared poses into continuous movement |
-| [K108 — A focus handoff](prompts/design-education.md#k108) | Written scene | Change focus while keeping geometry fixed |
+| [K003 — The last parcel](prompts/cinematic-stories.md#k003) | Written scene | Build a suspense reversal with an off-screen reply |
+| [K014 — Ceramic lid fit](prompts/product-films.md#k014) | Written product concept | Connect three advertising shots through one contact event |
+| [K037 — The last hurdle](prompts/action-camera.md#k037) | Written sports scene | Keep takeoff, clearance, and landing readable |
+| [K043 — The paper glider opens the sky](prompts/action-camera.md#k043) | Written fantasy scene | Reveal a new world through a continuous camera route |
+| [K079 — Storyboard to finished puppet scene](prompts/omni-reference.md#k079) | Character design and storyboard | Turn panels into a miniature adventure with a visual payoff |
+| [K088 — Change the drawer reveal](prompts/video-editing.md#k088) | Source footage and object image | Revise a reveal and its dialogue within the existing timing |
+| [K095 — Three poses at the window](prompts/keyframe-transitions.md#k095) | Three compatible portraits | Reach timed poses through natural movement |
+| [K104 — A network finds its route](prompts/design-education.md#k104) | Written diagram | Explain selection, travel, and arrival through motion graphics |
 
 ## Full collection
 

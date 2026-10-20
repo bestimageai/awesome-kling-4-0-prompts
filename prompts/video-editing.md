@@ -71,15 +71,27 @@ Edit @Video1. Change only the adult's jacket fabric to deep burgundy. Preserve t
 **Adjust:** fabric color. **Review:** mask follows cuffs and collar; skin untouched; fold shading retained.
 
 <a id="k088"></a>
-## K088 — The unexpected scarf
+## K088 — Change the drawer reveal
 
-**Use:** revise a short comic ending. **Mode:** video edit. **Brief:** preserve source length. **Inputs:** a clip of an adult opening a drawer at the end, plus a scarf reference.
+**Use:** a localized story and dialogue revision. **Mode:** video edit. **Brief:** source duration. **Inputs:** a clip with one adult opening a drawer to reveal one object, followed by a visible spoken line of at least three seconds; a photo of a folded striped scarf that fits inside the drawer.
+
+**Directing idea:** The input requirements supply both spatial room for the replacement and a usable speech interval. The edit is bounded by the reveal rather than a vague request to change the ending.
 
 ```text
-Edit @Video1. Preserve the opening and middle of the clip. When the adult opens the drawer in the final scene, show the folded striped scarf from @Image1 inside it in place of the original single object. Preserve the drawer's motion, the person's identity, hand movement, camera, lighting, and timing. Replace only the final spoken line with, "So that is where it went." Keep the same speaker and natural delivery, and retain the remaining source audio. The scarf stays inside the drawer. No added subtitles or music.
+EDIT TARGETS
+Edit @Video1. @Image1 defines only the folded scarf's stripes, fabric, and proportions. Replace the original single object inside the drawer with this scarf. Replace only the final spoken line with the English sentence, "So that is where it went."
+
+REVEAL BOUNDARY
+Preserve the source opening and middle. Keep the drawer front unchanged while closed. As the original pull reveals the interior, show the scarf in the original object's position, resting on the drawer bottom. Reveal it through the existing occlusion; do not dissolve it in. The scarf stays folded and is not picked up.
+
+PERFORMANCE AND SOUND
+Keep the source speaker, voice character, gaze, and head movement. Fit the replacement line into the existing final dialogue interval, with natural lip movement and a brief pause after the last word. Retain all earlier speech, room ambience, drawer friction, and other sound effects. Do not stretch the video or speed up the delivery to force a fit.
+
+PRESERVATION
+Keep camera path, cuts, source duration, drawer motion, hands, clothing, and room lighting. Update the replaced object's contact shadow inside the drawer to match the scarf; leave unrelated objects and shadows unchanged. No additional speech, subtitles, music, stripes appearing outside the drawer, or edits to earlier scenes.
 ```
 
-**Adjust:** reference object and final line together. **Review:** edit begins at reveal; lip sync matches replacement line; earlier frames remain consistent.
+**Adjust:** object reference and replacement line; choose source dialogue with sufficient room for natural speech. **Review:** edit appears through drawer occlusion; earlier speech remains; scarf fits the cavity; lip movement matches only the replacement interval.
 
 <a id="k089"></a>
 ## K089 — Recast a rehearsal room

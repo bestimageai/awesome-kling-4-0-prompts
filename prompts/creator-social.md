@@ -62,13 +62,25 @@ One adult at a kitchen table finishes a small wooden jigsaw by placing the final
 <a id="k024"></a>
 ## K024 — The bag that keeps rustling
 
-**Use:** deadpan food-content hook. **Mode:** text to video. **Brief:** 12 seconds, 9:16. **Inputs:** none.
+**Use:** a sound-led vertical comedy sketch. **Mode:** text to video. **Brief:** 15 seconds, 9:16. **Inputs:** none.
+
+**Directing idea:** The repeated attempt escalates through timing and a second person’s reaction, without relying on a louder sound effect or a new prop.
 
 ```text
-An adult sits in a quiet room holding one small paper bag of crackers. They begin to whisper, "A very quiet snack," then gently open the bag, producing a surprisingly crisp rustle. They pause, look down at it, and slowly set it on the table without speaking again. Frame the face, hands, bag, and tabletop in a fixed medium view. Keep the performance restrained and the paper movement physically small. The rustle is the comic event, followed by room silence. No jump scare, subtitles, music, or extra bag.
+SETUP
+A fixed phone-camera medium shot of an adult recording a quiet snack review at a kitchen table. One small paper bag of crackers is held in both hands. A second adult is seated in the soft-focus background reading a book. Ordinary evening room light, natural skin texture, no polished studio look.
+
+COMIC TIMING
+0–3s: The foreground creator leans toward the camera and whispers in English, "A very quiet snack."
+3–7s: They gently separate the bag's folded top. The first movement produces a crisp paper rustle. They stop instantly and glance toward the background reader, who has not moved.
+7–11s: The creator tries a much smaller movement. The paper makes one shorter rustle. The reader slowly lowers the book and says, in a normal dry voice, "We can all hear it."
+11–15s: The creator's hands freeze, then lower the bag onto the table. They look into the camera without speaking. Hold the embarrassed reaction for two seconds.
+
+SOUND MIX AND CONTINUITY
+The rustles synchronize with the two opening attempts, not with the reaction shots. Keep speech intelligible and the final silence free of music or canned laughter. Maintain one bag, the same book, and each person's screen position. The foreground mouth stays shut during the reply. No cuts, subtitles, cracker eating, exaggerated facial distortion, or extra dialogue.
 ```
 
-**Adjust:** bag color, whispered introduction. **Review:** sound coincides with paper movement; facial reaction follows the noise.
+**Adjust:** room setting and the reader’s reply. **Review:** two attempts produce two rustles; reader reacts after the second; the final pause remains long enough to register.
 
 <a id="k025"></a>
 ## K025 — The scarf color vote
@@ -95,10 +107,22 @@ An adult traveler sits at a train window with a closed notebook on their lap. Be
 <a id="k027"></a>
 ## K027 — The oversized receipt
 
-**Use:** surreal retail comedy. **Mode:** text to video. **Brief:** 10 seconds, 9:16. **Inputs:** none.
+**Use:** a surreal consumer-culture social hook. **Mode:** text to video. **Brief:** 12 seconds, 9:16. **Inputs:** none.
+
+**Directing idea:** The wider shot reveals the cost of the joke. Continuity of the paper makes the impossible quantity feel physically connected to the original action.
 
 ```text
-A miniature toy checkout sits on a full-size kitchen counter. One adult hand presses its single button. A narrow blank paper strip feeds out, crosses the counter, and gently curls over the edge. The hand waits, then holds a small empty shopping basket beside the growing paper with comic resignation. Use a locked close view, keeping the paper's origin visible. The toy remains rigid and the strip bends like thin paper. Sound: a tiny printer whir and soft paper flutter. End while the strip is still slowly feeding. No readable receipt, dialogue, subtitles, or music.
+VISUAL PREMISE
+A tiny toy checkout sits on a full-size kitchen counter. One adult right hand holds a single small button-shaped purchase beside it. A narrow blank paper strip emerges only from the checkout's front slot. Keep the scale contrast clear in a locked close view.
+
+ESCALATION
+0–2s: The hand places the small purchase beside the toy, then presses its only button once. Start the printer sound after that press.
+2–6s: The strip feeds steadily across the counter and curls over the front edge under gravity. The hand withdraws; no one pulls the paper.
+6–9s: Cut to a lower, wider angle showing the same strip reaching the floor and forming a loose pile. Keep its upper end continuously connected to the slot. The checkout and purchase remain at the same counter positions.
+9–12s: A second hand enters from below with a wastepaper basket and places it under the falling strip. The original right hand lifts the tiny purchase into view above the growing pile. Finish on the disproportion, while the printer continues.
+
+MATERIAL AND AUDIO
+Thin matte paper bends into irregular folds; it does not become a rigid ribbon or multiply into several strips. Use a small printer motor, soft paper impacts, and room tone. No dialogue, music, readable receipt, labels, extra button press, or teleporting paper. Preserve the already-fed paper through the cut.
 ```
 
-**Adjust:** toy color, counter. **Review:** paper emerges from one slot; continuous length does not teleport or split.
+**Adjust:** checkout color and the small purchase. **Review:** one press starts the feed; paper remains connected through the cut; the pile grows from falling material.

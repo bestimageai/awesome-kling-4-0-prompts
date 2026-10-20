@@ -2,18 +2,30 @@
 
 [Catalog](README.md) · [Prompting guide](../docs/prompting-guide.md)
 
-Keep explanatory scenes visually inspectable. Abstract diagrams and staging studies are illustrative, not measurements or engineering instructions.
+Build motion-graphics sequences, visual demonstrations, and reusable production studies with inspectable state changes. Abstract diagrams and staging studies are illustrative, not measurements or engineering instructions.
 
 <a id="k100"></a>
-## K100 — Three shapes find their spaces
+## K100 — Three shapes build an identity
 
-**Use:** a simple shape-matching animation. **Mode:** text to video. **Brief:** 12 seconds, 1:1. **Inputs:** none.
+**Use:** an abstract brand opener with a final layout for typography. **Mode:** text to video. **Brief:** 12 seconds, 1:1. **Inputs:** none.
+
+**Directing idea:** Independent motion phrases establish a repeatable visual rhythm, while a static end layout makes the result useful as an opener rather than an endless decorative animation.
 
 ```text
-On a matte cream background, a blue circle, red square, and yellow triangle sit below three matching outlined spaces. In a locked overhead view, move the circle straight into the round outline, then the square into the square outline, then the triangle into the triangular outline. Pause briefly after each fit. Keep every shape rigid, flat, and constant in size. Use soft contact shadows and a gentle wooden tap for each arrival. Finish with all three neatly aligned. No labels, numbers, spoken lesson, or music.
+GRAPHIC SYSTEM
+A flat cream canvas, fixed front-facing camera. One blue disk, one coral square, and one yellow triangle begin in a loose horizontal row below center. Use crisp vector-like edges, solid colors, and no textures, gradients, or perspective depth. The shapes are an original abstract arrangement, not an existing logo.
+
+MOTION PHRASES
+0–3s: The disk slides upward to a position just left of center, easing to a complete stop. The square and triangle stay still.
+3–6s: The square slides horizontally beneath the disk and stops with a narrow visible gap. Its edges remain horizontal and vertical.
+6–9s: The triangle rotates a quarter turn around its center, then slides to the right of the other two shapes. Its tip points right. Keep all three silhouettes separate, with no overlaps or merging.
+9–12s: Hold the finished cluster in the upper half of the canvas. Leave the lower third entirely empty for a real brand name to be added in post. The camera remains locked throughout.
+
+SOUND AND PRECISION
+Three short electronic notes mark the three completed placements; a light rising tone accompanies only the triangle's rotation. No voice-over or backing track. Preserve shape area, color, count, and edge quality. No generated letters, numbers, symbols, extra shapes, or bouncing during the final hold.
 ```
 
-**Adjust:** colors and spacing. **Review:** one shape moves at a time; outline geometry matches; no resizing to force a fit.
+**Adjust:** palette, final spacing, and sound timbre. **Review:** exactly three shapes persist; each settles before the next phase; triangle rotation does not morph its outline; title area stays empty.
 
 <a id="k101"></a>
 ## K101 — Shadow length study
@@ -49,15 +61,27 @@ Two translucent sheets, one cyan and one yellow, lie partly separated on a white
 **Adjust:** sheet shapes and overlap distance. **Review:** overlap color follows geometry; uncovered colors remain stable.
 
 <a id="k104"></a>
-## K104 — A visual rhythm of tiles
+## K104 — A network finds its route
 
-**Use:** abstract motion graphics. **Mode:** text to video. **Brief:** 8 seconds, 16:9. **Inputs:** none.
+**Use:** a motion-graphics explainer for choosing a delivery route. **Mode:** text to video. **Brief:** 15 seconds, 16:9. **Inputs:** none.
+
+**Directing idea:** Separating route selection from movement explains a process through visible states. This supports logistics or workflow storytelling without inventing numerical results.
 
 ```text
-Five flat blue square tiles form a horizontal row on a pale background. Each tile rises slightly and returns to its place, one after another from left to right, like a slow wave. Keep their sizes, spacing, and orientation fixed. Use a locked frontal camera and soft shadows directly below each tile. Play one gentle wooden note at the lowest contact point of each return. End with all five aligned and still. No letters, logos, additional tiles, voiceover, or backing music.
+DIAGRAM
+A flat dark navy canvas with six white circular nodes arranged in two rows of three. Thin gray lines connect horizontal neighbors and vertical pairs, forming a fixed rectangular network. The upper-left node is the start; the lower-right node is the destination. One small amber dot begins at the start. No geographic map, numbers, labels, or interface controls.
+
+SEQUENCE
+0–4s: Hold the full diagram. Highlight a continuous route from upper-left to upper-middle, then lower-middle, then lower-right in pale amber. All unused connections remain gray. The dot stays at the start while the route is selected.
+4–11s: Move the single dot along that highlighted route at a steady pace. Slow slightly at the two right-angle turns without leaving the line. Keep the graph fixed and the entire route visible.
+11–13s: On arrival, the lower-right node expands gently into one halo and returns to its original size. The dot stays centered inside it.
+13–15s: Hold the completed route and destination. Keep the upper margin empty for an explanatory title added afterward.
+
+AUDIO AND INVARIANTS
+A soft tick marks each intermediate node, followed by one warmer note at arrival. No speech or music. Nodes do not rearrange, lines do not bend into new shortcuts, and the moving dot never splits. Exactly six nodes and one traveler throughout; no moving camera or generated text.
 ```
 
-**Adjust:** tile color, timing between rises. **Review:** sequence has five beats; shadows follow height; row returns to its original arrangement.
+**Adjust:** route through the existing graph, palette, and pacing. **Review:** route selection finishes before travel; dot stays on connected segments; arrival cue happens only at the destination.
 
 <a id="k105"></a>
 ## K105 — Clay blocks for camera blocking

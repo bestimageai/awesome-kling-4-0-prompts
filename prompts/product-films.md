@@ -2,7 +2,7 @@
 
 [Catalog](README.md) · [Image-led workflow](../docs/bestimage-workflow.md) · [Kling 4.0 Image to Video](https://bestimage.ai/models/kuaishou/kling-4-0-image-to-video/)
 
-Give product shape, handling, and the final composition separate jobs. Prepare the stated first frame before using an image-led recipe.
+Direct material details, mechanical demonstrations, and edited product advertisements. Give product shape, handling, and the final composition separate jobs. Prepare the stated first frame before using an image-led recipe.
 
 <a id="k010"></a>
 ## K010 — The magnetic bookmark
@@ -51,13 +51,24 @@ Animate the strap in the supplied close-up. Preserve its perforations, stitching
 <a id="k014"></a>
 ## K014 — Ceramic lid fit
 
-**Use:** kitchen storage demonstration. **Mode:** text to video. **Brief:** 10 seconds, 1:1. **Inputs:** none.
+**Use:** a tactile kitchenware advertisement. **Mode:** text to video. **Brief:** 12 seconds, 1:1. **Inputs:** none.
+
+**Directing idea:** The edit separates alignment, fit, and the finished product. A detail cut has a specific purpose instead of adding an unrelated beauty shot.
 
 ```text
-A cream ceramic storage jar sits on a walnut table beside its matching round lid. One adult hand lifts the lid by its small knob, positions it directly above the opening, and lowers it until it sits evenly on the rim. Film at tabletop height in one locked shot. Hold the completed silhouette for three seconds. Diffuse window light reveals tiny glaze variations. Sound: fingers on glazed ceramic and a gentle lid contact. Keep one jar, one lid, and the same round opening. The jar remains empty and stationary. No text, dialogue, or music.
+CAMPAIGN IMAGE
+One cream ceramic storage jar and its matching lid on a walnut worktop. The jar is empty. A single adult right hand enters from screen right. Soft window light comes from the left; keep the glaze speckles, round opening, lid knob, and jar proportions identical across three shots.
+
+SHOT PLAN
+0–4s: Three-quarter close-up at rim height. The hand lifts the lid by its knob and moves it directly above the opening. Keep the gap between lid and jar visible; do not lower it yet.
+4–8s: Cut to a tighter side view, preserving the hand position and gap from the preceding shot. Lower the lid gently until it seats evenly. Only after contact, release the knob and withdraw right. Focus stays on the meeting edges.
+8–12s: Cut to a wider product composition with the fitted jar in the lower half. Make a shallow lateral slide that reveals the glaze texture while keeping the whole silhouette visible. Stop moving for the final two seconds; reserve the upper quarter for a real campaign title added later.
+
+AUDIO AND LIMITS
+Quiet kitchen ambience, fingertip friction, one ceramic contact at seating, and a short soft tonal accent after the hand releases. No speech. The lid does not screw down, snap, or create a seal effect. No steam, contents, performance claims, generated typography, extra lids, or floating jar.
 ```
 
-**Adjust:** glaze color, wood species. **Review:** lid diameter matches the opening; rim remains visible during alignment.
+**Adjust:** glaze palette, worktop material, and optional musical accent. **Review:** contact occurs before release; the close-up begins at the preceding gap; lid diameter and speckles remain consistent.
 
 <a id="k015"></a>
 ## K015 — Folded tote to standing bag
@@ -71,15 +82,27 @@ Two adult hands enter from above and unfold the tote in the supplied image. Firs
 **Adjust:** fabric weight and color. **Review:** folded material becomes the same bag; handles remain attached.
 
 <a id="k016"></a>
-## K016 — Adjustable bookend
+## K016 — The sliding camera rail
 
-**Use:** desktop mechanism demo. **Mode:** text to video. **Brief:** 12 seconds, 16:9. **Inputs:** none.
+**Use:** a mechanical product explainer for a compact camera slider. **Mode:** image to video. **Brief:** 15 seconds, 16:9. **Inputs:** a first image of an unbranded twin-rail slider on two fixed feet, one carriage with a visible locking knob, and a small camera mounted on that carriage.
+
+**Directing idea:** Unlock, travel, and lock are separate observable states. This makes the clip useful for explaining a real mechanism rather than merely displaying hardware.
 
 ```text
-Three plain hardback books lean between two blue metal bookends on a white shelf. An adult hand pushes the right bookend left until the books stand upright, then releases it. Keep a three-quarter close view so the sliding foot and book bases are visible. Move the camera slightly lower after the adjustment to show the final alignment. Hear a soft metal slide and paper covers settling. Keep exactly three books and two bookends. The left bookend remains fixed; the right one moves along the shelf without tilting. No legible titles, captions, dialogue, or music.
+PRODUCT AND VIEW
+Animate the supplied slider as one continuous tabletop demonstration. Preserve the two parallel rails, two supporting feet, single carriage, camera mount, and locking knob. Use a fixed elevated three-quarter view where the carriage-to-rail contact is visible throughout. Keep the tabletop uncluttered.
+
+DEMONSTRATION
+0–4s: An adult right hand enters from the near edge and turns the existing locking knob a quarter turn counterclockwise. The carriage remains still during unlocking.
+4–10s: The same hand moves from knob to carriage and pushes it steadily along the rails from left to right. The mounted camera travels rigidly with the carriage; the rails and feet stay fixed. Stop short of the right end stop.
+10–13s: With the carriage stationary, turn the same knob clockwise to lock it. Release and withdraw the hand.
+13–15s: Hold the final arrangement. The mounted camera does not pan, tilt, change shape, or continue drifting.
+
+SOUND AND CONSTRAINTS
+Close mechanical friction during the slide, a subtle knob creak at each turn, and quiet room tone. No narration or music. Show only the mechanism present in the input image. No added motors, buttons, cables, rail extension, speed claims, labels, or cuts.
 ```
 
-**Adjust:** book heights, bookend color. **Review:** correction occurs through contact; books do not pass through one another.
+**Adjust:** approved slider image and travel distance; use a knob-operated design compatible with the action. **Review:** unlock precedes travel; rails stay parallel; mounted camera and carriage move together; the lock prevents final drift.
 
 <a id="k017"></a>
 ## K017 — Umbrella fabric water bead

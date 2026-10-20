@@ -4,6 +4,8 @@
 
 Browse twelve example groups published by Kling AI in its [Kling 4.0 User Guide](https://kling.ai/quickstart/kling-4-model-user-guide). Click a preview to watch the official video. Input links identify the media supplied with that example; the guide contains the full source prompt.
 
+The reading notes below explain the published briefs and suggest checks for watching or adapting them; they are not scores or guarantees of model performance.
+
 The linked practice recipes are independently written exercises, not the prompts that generated these official videos. Official media remains hosted by Kling AI and is outside this repository’s MIT license.
 
 | Example | Focus | Original practice recipe |
@@ -30,6 +32,12 @@ The linked practice recipes are independently written exercises, not the prompts
 
 - [Reference image 1](https://static-50.klingai-cdn-aws.com/kling-blog/file_by_url/718638a1415f12a8a259928d829f6b96678acf35f7ed493643ddd9acd835b832.png?x-oss-process=image/resize,w_1872)
 
+**Input roles:** The source brief assigns identities, vehicles, wardrobe, and crew actions separately. Use the linked reference board alongside those written assignments; a board is not a substitute for specifying who performs each action.
+
+**Directing lesson:** A busy scene needs a hierarchy: identify the person being followed, establish the current action, then reveal the surrounding production. When adapting this method, start with fewer participants and one transition before attempting a dense sequence.
+
+**Watch for:** Compare faces and vehicle features across cuts. Follow props and garments through each handoff, and check that a camera reveal exposes connected space instead of replacing the background.
+
 <a id="o02"></a>
 ## O02 — Action reference
 
@@ -38,8 +46,14 @@ The linked practice recipes are independently written exercises, not the prompts
 [Watch result](https://static-17.klingai-cdn-aws.com/kling-blog/presigned_url/ed604ee7-c243-4375-9dc7-38c5964d81e2_1-2.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/omni-reference.md#k075)
 
 - [Input video 1](https://static--34.klingai-cdn-aws.com/kling-blog/presigned_url/bd79f738-8bdf-4cf8-b02a-be0fad27c733_1-2-1.mp4)
-- [Reference image 1](https://static--45.klingai-cdn-aws.com/kling-blog/file_by_url/9603ebbdfda76122fdbef0275af4dbad96108fcbb7e46bad56e621feba73c892.png?x-oss-process=image/resize,w_1872)
-- [Reference image 2](https://static-10.klingai-cdn-aws.com/kling-blog/file_by_url/ef4f3b49db4eab2d135518404005e67da24472f824e27b2ddf1c86c2699d9217.png?x-oss-process=image/resize,w_1872)
+- [Character design 1 — Image 1](https://static--45.klingai-cdn-aws.com/kling-blog/file_by_url/9603ebbdfda76122fdbef0275af4dbad96108fcbb7e46bad56e621feba73c892.png?x-oss-process=image/resize,w_1872)
+- [Character design 2 — Image 2](https://static-10.klingai-cdn-aws.com/kling-blog/file_by_url/ef4f3b49db4eab2d135518404005e67da24472f824e27b2ddf1c86c2699d9217.png?x-oss-process=image/resize,w_1872)
+
+**Input roles:** The original prompt assigns fight choreography and attack timing to Video 1, and the two character designs to Images 1 and 2. The motion clip and still images have different jobs.
+
+**Directing lesson:** Write a positive motion instruction and a separate appearance instruction. When changing performers, preserve the order of preparation, attack, response, and recovery; avoid adding camera changes that obscure the movement being transferred.
+
+**Watch for:** Compare the start and end of each action with the motion reference. Watch contact distance, reaction timing, and whether the two appearances ever swap. A plausible-looking fight can still miss the referenced choreography.
 
 <a id="o03"></a>
 ## O03 — Camera reference
@@ -49,8 +63,14 @@ The linked practice recipes are independently written exercises, not the prompts
 [Watch result](https://static--94.klingai-cdn-aws.com/kling-blog/presigned_url/2a2039c8-2a39-48cb-83b6-a3a4f95b4446_1-3.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/omni-reference.md#k076)
 
 - [Input video 1](https://static--68.klingai-cdn-aws.com/kling-blog/presigned_url/d948f107-f702-4591-842f-c502eaf4e446_1-3-1.mp4)
-- [Reference image 1](https://static--54.klingai-cdn-aws.com/kling-blog/file_by_url/5a2591442bc22e9f30c9c01a908746abf2ee781a2f2791f024f9ff727b240966.png?x-oss-process=image/resize,w_1872)
-- [Reference image 2](https://static-58.klingai-cdn-aws.com/kling-blog/file_by_url/515ab05993934539ab58c7ab75862b3282d18fd063246deb918114a6dda943af.png?x-oss-process=image/resize,w_1872)
+- [Car reference — Image 1](https://static--54.klingai-cdn-aws.com/kling-blog/file_by_url/5a2591442bc22e9f30c9c01a908746abf2ee781a2f2791f024f9ff727b240966.png?x-oss-process=image/resize,w_1872)
+- [Setting reference — Image 2](https://static-58.klingai-cdn-aws.com/kling-blog/file_by_url/515ab05993934539ab58c7ab75862b3282d18fd063246deb918114a6dda943af.png?x-oss-process=image/resize,w_1872)
+
+**Input roles:** Video 1 provides camera movement and shot pacing. Image 1 supplies the replacement car; Image 2 supplies the new setting. The source prompt explicitly separates movement from scene ingredients.
+
+**Directing lesson:** Name what stays stationary relative to the scene and what the camera does around it. A camera reference should not silently import the reference subject or location. In a new environment, ensure the intended path has enough physical clearance.
+
+**Watch for:** Watch background parallax and the changing view of the vehicle. If the vehicle rotates while the background stays fixed, subject rotation may have replaced the requested camera move. Also check that the camera does not pass through scenery.
 
 <a id="o04"></a>
 ## O04 — Storyboard reference
@@ -59,8 +79,14 @@ The linked practice recipes are independently written exercises, not the prompts
 
 [Watch result](https://static-24.klingai-cdn-aws.com/kling-blog/presigned_url/1b9b38b5-2381-4f54-a5e2-c6510075ea1f_1-5.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/omni-reference.md#k079)
 
-- [Reference image 1](https://static-6.klingai-cdn-aws.com/kling-blog/file_by_url/982c5566ed9dc356c626105c4777b31163f3de2537b0a12de2e7583d49b39918.png?x-oss-process=image/resize,w_1872)
-- [Reference image 2](https://static--57.klingai-cdn-aws.com/kling-blog/file_by_url/961d42867186eca64dd753536ed8a3646dc475680b377e629066fef22b5c7b94.png?x-oss-process=image/resize,w_1872)
+- [Storyboard — Image 1](https://static-6.klingai-cdn-aws.com/kling-blog/file_by_url/982c5566ed9dc356c626105c4777b31163f3de2537b0a12de2e7583d49b39918.png?x-oss-process=image/resize,w_1872)
+- [Character design — Image 2](https://static--57.klingai-cdn-aws.com/kling-blog/file_by_url/961d42867186eca64dd753536ed8a3646dc475680b377e629066fef22b5c7b94.png?x-oss-process=image/resize,w_1872)
+
+**Input roles:** Image 1 is the storyboard; Image 2 is the character design sheet. The source brief asks for finished miniature animation and one continuous camera journey, despite the storyboard containing several panels.
+
+**Directing lesson:** Panels can describe successive moments within one shot. State explicitly whether to connect them with cuts or continuous movement. Assign character design separately so the output does not inherit sketch lines, labels, or the storyboard grid.
+
+**Watch for:** Check panel order, travel direction, and recognizable character details. For the continuous version, follow the camera between environments and look for hidden dissolves or impossible jumps. Match sound cues to visible events rather than to panel boundaries alone.
 
 <a id="o05"></a>
 ## O05 — A different ending
@@ -76,6 +102,12 @@ The three images below belong to the single character Element referenced as `@El
 - [Element 1 — reference image 2](https://static-96.klingai-cdn-aws.com/kling-blog/file_by_url/d75de72f10aa9c6378f0837551a337fb0e60ebe0f3b7532d0eacb10f8496eebc.png?x-oss-process=image/resize,w_1872)
 - [Element 1 — reference image 3](https://static-88.klingai-cdn-aws.com/kling-blog/file_by_url/5a5caf66b2695099249e7bd573ca117d2ceec8168c1d044818f66bb97c3f8ef8.png?x-oss-process=image/resize,w_1872)
 
+**Input roles:** Video 1 supplies the existing scene and reveal timing. The three images below belong to the single character Element referenced as @Element1. The original edit also replaces the final spoken punchline.
+
+**Directing lesson:** Treat the visual reveal and the revised line as a linked pair. Specify when the new subject becomes visible, which earlier material must remain, and whose voice delivers the replacement. Select a line that fits the available speech interval.
+
+**Watch for:** Compare the clip before the reveal against the source. At the reveal, inspect occlusion, subject scale, and contact with the container. Listen for lost ambience or changes to earlier dialogue, then check the replacement speaker’s lip movement.
+
 <a id="o06"></a>
 ## O06 — Character and environment replacement
 
@@ -86,6 +118,12 @@ The three images below belong to the single character Element referenced as `@El
 - [Input video 1](https://static-90.klingai-cdn-aws.com/kling-blog/presigned_url/42801baf-9a37-471f-ae55-68cd75001eb4_1-2-1.mp4)
 - [Reference image 1](https://static--63.klingai-cdn-aws.com/kling-blog/file_by_url/a755279b2ec2b77e49b1de97efb9f838564c2e3ca37d4f00d956e1f4ea522600.png?x-oss-process=image/resize,w_1872)
 
+**Input roles:** Video 1 supplies the footage to edit; Image 1 supplies the replacement characters and environment. This example changes several visible ingredients across the clip rather than one isolated object.
+
+**Directing lesson:** List the performance and editorial timing you want to keep separately from the appearance and setting you want to replace. A new room must still support the source movement, including doors, floor contact, and any objects the performer touches.
+
+**Watch for:** Look for old-scene remnants at silhouettes, reflections, and fast movements. Compare movement timing with the original clip and check whether the new floor and lighting explain the performer’s shadows.
+
 <a id="o07"></a>
 ## O07 — Foreground removal
 
@@ -94,6 +132,12 @@ The three images below belong to the single character Element referenced as `@El
 [Watch result](https://static-60.klingai-cdn-aws.com/kling-blog/presigned_url/13c66fc3-b663-4e6e-b50c-208bbd080a5c_1-4.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/video-editing.md#k082)
 
 - [Input video 1](https://static--19.klingai-cdn-aws.com/kling-blog/presigned_url/968b27e4-43a2-4757-b744-074878d87095_1-4-1.mp4)
+
+**Input roles:** The source video is the only linked input. The written edit identifies the foreground person to remove and asks to preserve the rest of the shot, including its duration and camera movement.
+
+**Directing lesson:** Removal also requires reconstructing what the obstruction concealed. Describe the target precisely and preserve surrounding motion, while allowing reconstruction of shadows or reflections caused by that target where relevant.
+
+**Watch for:** Watch the cleared region through the entire camera move. Background edges should remain connected, previously hidden people should not duplicate, and reconstruction should not pulse between frames. Compare unaffected regions with the source, not just the opening and closing stills.
 
 <a id="o08"></a>
 ## O08 — Local character stylization
@@ -104,6 +148,12 @@ The three images below belong to the single character Element referenced as `@El
 
 - [Input video 1](https://static-81.klingai-cdn-aws.com/kling-blog/presigned_url/458f58fa-6934-4de1-a967-73e50bfbde62_1-5-1.mp4)
 
+**Input roles:** The source clip supplies the dog’s action and snowy surroundings. The written instruction specifies a block-built replacement; there is no separate style-image input linked for this example.
+
+**Directing lesson:** Describe a material transformation as a consistent construction system: body parts, surfaces, joints, and silhouette. Bound that treatment to the selected subject so snow, scenery, and unrelated objects do not acquire the same look.
+
+**Watch for:** Inspect whether the changed body retains the source movement and contact with the ground. Check paws, ears, and silhouette through turns, and look for the original surface briefly returning during fast motion.
+
 <a id="o09"></a>
 ## O09 — Three-speaker conversation
 
@@ -113,6 +163,12 @@ The three images below belong to the single character Element referenced as `@El
 
 - [Reference image 1](https://static--70.klingai-cdn-aws.com/kling-blog/file_by_url/ec20a9573046207984f3c03dbea8d63a9e979ee34029d070ac4ae13132cb2e4a.png?x-oss-process=image/resize,w_1872)
 
+**Input roles:** The source scene distinguishes a tourist, interpreter, and staff member, with fixed positions and different language responsibilities. The linked image supports the visual setup; the written dialogue assigns speakers and turns.
+
+**Directing lesson:** Build a speaker ledger before adding camera cuts: who speaks, in which language, to whom, and who listens. For a new scene, read the lines aloud and budget real pauses instead of assuming a dense exchange fits its written timestamps.
+
+**Watch for:** Watch the silent listeners as carefully as the speaker. Check voice ownership, mouth movement, gaze, and identity across cuts. The source text gives conflicting map-close-up directions in its action and camera sections; choose one consistent instruction when adapting that setup.
+
 <a id="o10"></a>
 ## O10 — Whole-clip felt treatment
 
@@ -121,7 +177,13 @@ The three images below belong to the single character Element referenced as `@El
 [Watch result](https://static--4.klingai-cdn-aws.com/kling-blog/presigned_url/04e6bce0-f983-482a-b9e1-10f816d9321b_1-1.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/video-editing.md#k090)
 
 - [Input video 1](https://static-53.klingai-cdn-aws.com/kling-blog/presigned_url/243e4698-e9f5-4192-bdf5-c3aa01bbd121_1-1-1.mov)
-- [Reference image 1](https://static-12.klingai-cdn-aws.com/kling-blog/file_by_url/df26de15d0723c4dc3063da47dea63cdffa4310fbfe00165f12034dca85e358d.png?x-oss-process=image/resize,w_1872)
+- [Felt style reference — Image 1](https://static-12.klingai-cdn-aws.com/kling-blog/file_by_url/df26de15d0723c4dc3063da47dea63cdffa4310fbfe00165f12034dca85e358d.png?x-oss-process=image/resize,w_1872)
+
+**Input roles:** Video 1 supplies the sequence, action, and camera movement. Image 1 supplies the felt treatment. Unlike O08, the requested material change covers the entire visible scene.
+
+**Directing lesson:** Use the style image for surface construction and material scale, not as a replacement composition. Explain how the material applies to people, clothing, props, and surroundings while retaining the original shapes and timing.
+
+**Watch for:** Look for surfaces that escape the treatment and for texture sliding over moving objects. Compare cuts, movement, and audio against the source, and inspect whether felt texture stays coherent at different camera distances.
 
 <a id="o11"></a>
 ## O11 — First and last frames
@@ -130,8 +192,14 @@ The three images below belong to the single character Element referenced as `@El
 
 [Watch result](https://static--34.klingai-cdn-aws.com/kling-blog/presigned_url/e8b7cc55-4cb6-4a0c-b175-e22d1f378f5f_1-2.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/keyframe-transitions.md#k091)
 
-- [Reference image 1](https://static-84.klingai-cdn-aws.com/kling-blog/file_by_url/19ce60e842cb8fb4c613ed685c77e1c4d4cf027c6e827611fe944122945eccf1.png?x-oss-process=image/resize,w_1872)
-- [Reference image 2](https://static--59.klingai-cdn-aws.com/kling-blog/file_by_url/0b1daaccfe88e3810a5249fa9b1b81d8270e3a89ba88adda865ec5cfe0fa6ae1.png?x-oss-process=image/resize,w_1872)
+- [First-frame reference](https://static-84.klingai-cdn-aws.com/kling-blog/file_by_url/19ce60e842cb8fb4c613ed685c77e1c4d4cf027c6e827611fe944122945eccf1.png?x-oss-process=image/resize,w_1872)
+- [Last-frame reference](https://static--59.klingai-cdn-aws.com/kling-blog/file_by_url/0b1daaccfe88e3810a5249fa9b1b81d8270e3a89ba88adda865ec5cfe0fa6ae1.png?x-oss-process=image/resize,w_1872)
+
+**Input roles:** The two images define the opening and closing workshop compositions. The source prompt describes the actions connecting those endpoints rather than relying on the images alone.
+
+**Directing lesson:** Check endpoint compatibility before writing: same character, environment, object inventory, and plausible material change. Break the connection into observable actions, then reserve time to settle into the ending. A matching last frame cannot by itself prove a continuous process.
+
+**Watch for:** Follow the worked object through handling and occlusion. Look for sudden replacement, duplicated tools, or an unexplained cut into the final composition. Compare the final pose and layout with the supplied closing image.
 
 <a id="o12"></a>
 ## O12 — Several key moments
@@ -146,3 +214,9 @@ The three images below belong to the single character Element referenced as `@El
 - [Reference image 4](https://static-82.klingai-cdn-aws.com/kling-blog/file_by_url/3399431d9eeb7c8c0d2eb26d481b05aa57e30c53526cf546e21d7aca9dfbda2f.png?x-oss-process=image/resize,w_1872)
 - [Reference image 5](https://static--53.klingai-cdn-aws.com/kling-blog/file_by_url/54747de90e26fc4939f7782ab0bd93ab9f3c13c6683a77df2ea9f1a2cf21e800.png?x-oss-process=image/resize,w_1872)
 - [Reference image 6](https://static-64.klingai-cdn-aws.com/kling-blog/file_by_url/773db4a2dfe2f7fde291d00072beed8fd3071968782e9abc71797f93b68954ba.png?x-oss-process=image/resize,w_1872)
+
+**Input roles:** The six images supply successive poses of one person. The source prompt organizes them into timed moments within one scene, not six separate identities.
+
+**Directing lesson:** Treat each image as an arrival target on a shared timeline. Keep camera and identity compatible, assign enough time for weight shifts and turns, and specify what moves between milestones. Align the written arrival times with the actual keyframe placement.
+
+**Watch for:** Watch the intervals between poses for face morphing, sliding feet, or dissolve-like transitions. Check turn direction and clothing continuity, and allow breathing and settling so the result does not become a sequence of frozen portraits.

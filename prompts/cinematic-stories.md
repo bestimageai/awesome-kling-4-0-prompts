@@ -2,7 +2,7 @@
 
 [Catalog](README.md) · [Prompting guide](../docs/prompting-guide.md) · [Kling 4.0 Text to Video](https://bestimage.ai/models/kuaishou/kling-4-0-text-to-video/)
 
-Small stories told through a visible decision, a physical action, and a readable ending. These are creative recipes; durations and framing describe the intended shot.
+Character stories range from quiet single shots to short dramas with dialogue, a reversal, and a final visual payoff. These are creative recipes; durations and framing describe the intended shot.
 
 <a id="k001"></a>
 ## K001 — The returned umbrella
@@ -29,13 +29,24 @@ In an empty rehearsal room, an adult cellist in a gray sweater sits beside one c
 <a id="k003"></a>
 ## K003 — The last parcel
 
-**Use:** an end-of-day character beat. **Mode:** text to video. **Brief:** 10 seconds, 9:16. **Inputs:** none.
+**Use:** a vertical suspense scene with an audible reveal. **Mode:** text to video. **Brief:** 15 seconds, 9:16. **Inputs:** none.
+
+**Directing idea:** The mistaken assumption is established visually before the reply overturns it. Keeping the dog asleep prevents a second event from competing with the punchline.
 
 ```text
-Frame an adult bicycle courier at a sheltered apartment entrance, waist up, with a small brown parcel under their left arm. The courier reaches for the doorbell with their right hand, pauses, and notices a sleeping dog through the glass. They lower that hand, set the parcel gently on a dry bench beside the door, and step backward out of the right edge of the frame. Keep the camera locked and the glass reflections subdued so both the pause and the sleeping dog are legible. Evening light falls from the left. Sound: distant traffic, cardboard touching wood, and a quiet shoe scuff. The dog stays asleep. No speech, subtitles, or music.
+DIRECTION
+A fifteen-second vertical short drama in three shots. One adult bicycle courier wears a reflective navy jacket and carries one palm-sized brown parcel under the left arm. At a sheltered apartment entrance, a sleeping dog is visible through the lower glass panel. The entrance has one doorbell on the right and a dry bench on the left. Keep this layout and evening light across cuts.
+
+STORY BEATS
+0–4s: Waist-up view from outside. The courier raises the right index finger toward the bell, notices the dog, and stops before touching the button. Rack focus briefly toward the sleeping dog without changing sides of the glass.
+4–9s: Cut closer from the same side. The courier lowers the right hand, transfers the parcel from the left arm onto the bench with both hands, and whispers in English, "I'll leave it here." Keep the parcel visible through the transfer.
+9–15s: Return to the opening view. A voice from the existing door intercom says, "He isn't the one you woke." The courier freezes, then looks directly at the intercom. Hold the reaction for two seconds. The door remains shut and the dog stays asleep.
+
+SOUND AND CONTINUITY
+Traffic stays low beneath both lines. Include cardboard on wood and a short intercom click immediately before the reply. The unseen resident speaks only through the intercom; the courier's mouth stays closed during that reply. No bell press, extra parcel, subtitles, musical sting, or change to the reflection geometry.
 ```
 
-**Adjust:** coat color, entrance materials. **Review:** parcel transfers from arm to bench; the courier never presses the bell; glass geometry remains stable.
+**Adjust:** jacket color and the resident’s final line; retain the same reveal timing. **Review:** the finger stops short of the bell; parcel transfer is continuous; intercom voice belongs off-screen; reaction follows the reply.
 
 <a id="k004"></a>
 ## K004 — A seat in the sunlight
@@ -95,10 +106,22 @@ A pair of adult hands opens a worn blue hardback on a kitchen table. One faded, 
 <a id="k009"></a>
 ## K009 — Closing the flower stall
 
-**Use:** a warm closing shot. **Mode:** text to video. **Brief:** 15 seconds, 9:16. **Inputs:** none.
+**Use:** an emotional neighborhood short with a two-person payoff. **Mode:** text to video. **Brief:** 15 seconds, 9:16. **Inputs:** none.
+
+**Directing idea:** A second character gives the gesture a recipient, while the final object shot carries the emotion without an explanatory voice-over.
 
 ```text
-At dusk, an adult flower seller draws a canvas awning halfway down over a small street stall. One white flower remains in a glass jar on the counter. The seller pauses, takes the jar, and places it on the outside ledge where passing people can still see it. They finish lowering the awning and switch off the lamp behind it. Keep a fixed frontal composition with the jar in the lower foreground. The flower stays illuminated by the neighboring shop's warm spill light as the stall darkens. Sound: canvas rolling, glass touching stone, one switch click, and evening street ambience. No dialogue, subtitles, or music.
+SCENE
+A small flower stall at dusk, shown from the pavement. An adult seller in a canvas apron is inside; an adult street cleaner in a blue work jacket approaches from screen right. One white flower stands in a water-filled glass jar on the counter. A neighboring shop provides warm light after the stall closes.
+
+EDIT AND PERFORMANCE
+0–4s: Fixed medium-wide view. The seller pulls the awning halfway down, notices the cleaner arriving, and pauses. Keep the cleaner's broom in their left hand throughout.
+4–9s: Cut to a closer two-shot from the same pavement side. The seller lifts the jar onto the outer ledge and says quietly in English, "This one can stay open." The cleaner looks from the flower to the seller and gives a small, surprised smile. Nobody takes the jar.
+9–13s: Return to the wide view. The cleaner continues left, glancing back once. The seller lowers the awning fully, then switches off the stall lamp from inside.
+13–15s: Hold the jar in the foreground, still lit by the neighboring shop. The closed stall is darker behind it.
+
+SOUND AND FIXED DETAILS
+Canvas rollers, glass touching stone, the single spoken line, broom bristles, and evening street ambience. No score. Keep the jar's water level and flower intact across cuts. Leave the upper part of the final frame free of generated lettering for an optional title in post. No extra flowers appearing, jar handoff, subtitles, or unexplained illumination.
 ```
 
-**Adjust:** flower variety, awning color. **Review:** the jar travels visibly from counter to ledge; the final flower remains outside; illumination has a consistent source.
+**Adjust:** flower variety, wardrobe, and the seller’s line. **Review:** cleaner travels right to left across cuts; jar stays on the outer ledge; light survives because the neighboring shop remains lit.

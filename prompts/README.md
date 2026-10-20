@@ -53,7 +53,7 @@
 | [K013](product-films.md#k013) | A watch strap flex | image to video |
 | [K014](product-films.md#k014) | Ceramic lid fit | text to video |
 | [K015](product-films.md#k015) | Folded tote to standing bag | image to video |
-| [K016](product-films.md#k016) | Adjustable bookend | text to video |
+| [K016](product-films.md#k016) | The sliding camera rail | image to video |
 | [K017](product-films.md#k017) | Umbrella fabric water bead | image to video |
 | [K018](product-films.md#k018) | Notebook elastic closure | text to video |
 
@@ -89,13 +89,13 @@
 
 | ID | Scene | Starting point |
 | --- | --- | --- |
-| [K037](action-camera.md#k037) | The rolling orange | text to video |
+| [K037](action-camera.md#k037) | The last hurdle | text to video |
 | [K038](action-camera.md#k038) | A skater's gentle turn | text to video |
-| [K039](action-camera.md#k039) | Shuttle landing | text to video |
+| [K039](action-camera.md#k039) | Drone through the service ring | text to video |
 | [K040](action-camera.md#k040) | Crossing behind a pillar | text to video |
 | [K041](action-camera.md#k041) | The sweeping fabric | text to video |
 | [K042](action-camera.md#k042) | The ferry rope | text to video |
-| [K043](action-camera.md#k043) | A paper glider's arrival | text to video |
+| [K043](action-camera.md#k043) | The paper glider opens the sky | text to video |
 | [K044](action-camera.md#k044) | The stair landing reveal | text to video |
 | [K045](action-camera.md#k045) | A slow cart stop | text to video |
 
@@ -165,7 +165,7 @@
 | [K085](video-editing.md#k085) | Replace the table centerpiece | video edit |
 | [K086](video-editing.md#k086) | Calm the curtain movement | video edit |
 | [K087](video-editing.md#k087) | A different jacket color | video edit |
-| [K088](video-editing.md#k088) | The unexpected scarf | video edit |
+| [K088](video-editing.md#k088) | Change the drawer reveal | video edit |
 | [K089](video-editing.md#k089) | Recast a rehearsal room | video edit |
 | [K090](video-editing.md#k090) | A knitted miniature world | video edit |
 
@@ -187,11 +187,11 @@
 
 | ID | Scene | Starting point |
 | --- | --- | --- |
-| [K100](design-education.md#k100) | Three shapes find their spaces | text to video |
+| [K100](design-education.md#k100) | Three shapes build an identity | text to video |
 | [K101](design-education.md#k101) | Shadow length study | text to video |
 | [K102](design-education.md#k102) | A balance of blocks | text to video |
 | [K103](design-education.md#k103) | Color through clear sheets | text to video |
-| [K104](design-education.md#k104) | A visual rhythm of tiles | text to video |
+| [K104](design-education.md#k104) | A network finds its route | text to video |
 | [K105](design-education.md#k105) | Clay blocks for camera blocking | text to video |
 | [K106](design-education.md#k106) | A clean turn for compositing | image to video |
 | [K107](design-education.md#k107) | The empty title space | text to video |

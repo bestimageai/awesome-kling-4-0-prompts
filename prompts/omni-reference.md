@@ -7,13 +7,24 @@ Supply your own authorized assets and match the numbered references to the uploa
 <a id="k073"></a>
 ## K073 — Two makers at one bench
 
-**Use:** multi-person identity direction. **Mode:** Omni Reference. **Brief:** 12 seconds, 16:9. **Inputs:** two adult portraits and a workshop image.
+**Use:** multi-person identity and coordinated handwork. **Mode:** Omni Reference. **Brief:** 15 seconds, 16:9. **Inputs:** two authorized adult portraits and a workshop image with a clear bench.
+
+**Directing idea:** A shared object creates a useful stress test for identity and occlusion: the viewer can check who supports, who inserts, and when each person releases.
 
 ```text
-@Image1 defines the maker standing left. @Image2 defines the maker standing right. Preserve their separate faces, hairstyles, and clothing. @Image3 defines the workshop layout and light. Place one plain wooden frame on the bench between them. The left maker holds the frame upright while the right maker aligns a loose corner piece, then both step back to inspect it. Use a slow lateral camera move that keeps both faces and the frame visible. Hear wood contact, sleeves, and quiet workshop ambience. Keep the same two people throughout. No dialogue, subtitles, or music.
+REFERENCE ASSIGNMENT
+@Image1 supplies the left maker's face, hair, and clothing. @Image2 supplies the right maker's appearance. @Image3 supplies the workshop layout, workbench, and light direction. Do not import portrait backgrounds or duplicate either person. Place one small wooden picture frame with an open upper-right corner on the bench and one matching loose corner piece beside it.
+
+BLOCKING AND TIMING
+0–4s: Medium-wide view from the front of the bench. The left maker lifts the frame upright, bracing its lower edge on the bench with both hands. The right maker watches the open corner and picks up the loose piece with their right hand.
+4–10s: Move the camera slightly right, keeping both faces and the corner visible. The right maker steadies the frame's right edge with their left hand and fits the loose piece into the open corner with their right. The left maker continues supporting the frame; hands never exchange jobs.
+10–15s: The right maker releases the fitted piece first. Together they lower the completed frame flat onto the bench, then withdraw their hands and inspect it. The camera stops before the final two-second hold.
+
+CONTINUITY AND SOUND
+Keep the same two identities and their left/right positions. The corner piece remains part of the completed frame after insertion. Use wood contact, sleeves, and workshop room tone. No speech, music, extra tools, nails, glue effects, duplicated frame, or fingers passing through wood.
 ```
 
-**Adjust:** portraits and workshop. **Review:** two distinct identities; hand roles remain fixed; frame geometry survives occlusion.
+**Adjust:** portraits, workshop, and frame finish. **Review:** identity follows each portrait; hands keep their assigned roles; both people release only after the frame is supported.
 
 <a id="k074"></a>
 ## K074 — Product in a new room
@@ -29,13 +40,25 @@ Supply your own authorized assets and match the numbered references to the uploa
 <a id="k075"></a>
 ## K075 — A gesture transferred
 
-**Use:** motion reference with a new performer. **Mode:** Omni Reference. **Brief:** 10 seconds, 16:9. **Inputs:** an authorized adult portrait and a 10-second gesture-reference clip.
+**Use:** reference-led choreography with a new performer. **Mode:** Omni Reference. **Brief:** 12 seconds, 16:9. **Inputs:** one authorized adult full-body reference and a 12-second full-body movement clip showing a side step, arm sweep, and return to rest.
+
+**Directing idea:** The reference carries choreography, while the written brief controls framing and appearance. This prevents an appearance change from also changing the action being evaluated.
 
 ```text
-@Image1 defines the adult performer's appearance and clothing. Use @Video1 only for the timing and arm path of the slow welcoming gesture, not for the person's identity, room, or voice. Place the performer in a plain warm-gray studio. Reproduce the gesture once: hands begin together, open outward, then return to a relaxed position. Keep a fixed waist-up shot with both hands visible. Preserve the face and sleeves from @Image1. Sound: natural clothing movement and room tone. No speech, subtitles, music, or additional gestures.
+REFERENCE ROLES
+@Image1 defines the adult performer's face, hairstyle, clothing, and body proportions. @Video1 defines only the order, timing, and paths of the side step, arm sweep, and return. Use a plain warm-gray studio instead of the video's location. Do not copy the source performer's face, clothing, or audio.
+
+PERFORMANCE
+Follow the movement clip from its initial rest through its final rest. Preserve the reference's pauses and direction changes rather than adding extra flourishes. Transfer the relative movement to the new performer's body: shoulders lead the arm sweep, elbows follow, and wrists finish. Keep the planted foot grounded until the reference lifts it; let clothing settle after the arms stop. Do not mirror the source movement.
+
+CAMERA AND FLOOR
+Use one locked, full-body frontal view with room around both hands and feet at the widest extension. Keep the camera level and the background featureless. A soft floor shadow moves with the body; the floor plane stays fixed. No cuts or automatic push-in.
+
+SOUND AND LIMITS
+Replace source audio with quiet studio ambience, light foot contact, and clothing movement synchronized to the new performance. No speech or music. Maintain one performer, natural joint limits, the same garment seams, and the reference's final resting pose. No motion trails, duplicated hands, sliding planted foot, or source-background remnants.
 ```
 
-**Adjust:** portrait, studio color. **Review:** timing follows motion reference; identity follows image; hands return to rest.
+**Adjust:** performer reference and studio palette; retain a compatible movement clip. **Review:** motion follows Video1 without mirroring; identity follows Image1; weight transfers precede lifted feet; final pose settles.
 
 <a id="k076"></a>
 ## K076 — Camera path around a sculpture
@@ -73,13 +96,28 @@ Supply your own authorized assets and match the numbered references to the uploa
 <a id="k079"></a>
 ## K079 — Storyboard to finished puppet scene
 
-**Use:** storyboard-led animation. **Mode:** Omni Reference. **Brief:** 15 seconds, 16:9. **Inputs:** original puppet design and a three-panel storyboard.
+**Use:** a three-shot miniature adventure directed from storyboard panels. **Mode:** Omni Reference. **Brief:** 15 seconds, 16:9. **Inputs:** an original wooden puppet design and a three-panel storyboard showing the basket-carrying puppet approaching a gate, opening its latch, and discovering an oversized strawberry in the garden.
+
+**Directing idea:** The panels define editorial decisions while the prompt supplies contact, sound, and a final reaction. The result has a payoff beyond simply reproducing poses.
 
 ```text
-@Image1 defines the original wooden puppet's design and painted colors. @Image2 defines three shots: the puppet approaches a closed garden gate, opens the latch, then looks into the garden. Render finished miniature animation rather than a view of the storyboard. Give each panel five seconds, preserving its framing and left-to-right travel. The latch moves only when the puppet's hand touches it, and the gate swings away from the puppet. Keep warm morning light consistent. Hear wooden footsteps, a latch click, and garden birds. No panel borders, annotations, subtitles, speech, or music.
+INPUT ROLES
+@Image1 defines the wooden puppet: face, painted clothing, joints, and proportions. @Image2 defines the three-panel storyboard's order, framing, screen direction, and gate layout. Render finished miniature scenes, not the storyboard page. Use visible wood grain, small fabric fibers, and warm morning light.
+
+SHOT 1, 0–5s
+Match panel one. The puppet approaches a closed garden gate from screen left, carrying one empty wicker basket in its left hand. Stop at the latch. Keep the basket below the waist and the right hand free. Wooden footfalls slow as the puppet reaches the gate.
+
+SHOT 2, 5–10s
+Match panel two, a closer view from the same side. The right hand lifts the latch, then pushes the gate away into the garden. The gate begins swinging only after the latch clears its catch. Keep the basket in the left hand at the same height; do not switch hands across the cut.
+
+SHOT 3, 10–15s
+Match panel three, looking past the puppet into the garden. Reveal a single oversized red strawberry hanging above the path. The puppet leans back slightly to take in its size, looks down into the empty basket, and looks up again. Finish on that silent comparison, with the gate still open.
+
+AUDIO AND CONTINUITY
+Footsteps, one latch click, a hinge creak, and garden birds. No dialogue or music. Preserve puppet design, gate hinge side, basket size, and morning light across cuts. No storyboard borders, annotations, new characters, fruit picking, or basket contents appearing.
 ```
 
-**Adjust:** character design and storyboard. **Review:** panel order respected; output is full-frame animation; gate contact remains believable.
+**Adjust:** puppet design and garden surprise; update the third storyboard panel to match. **Review:** three panels become three finished shots; free hand opens the latch; reveal is visible through the opened gate; basket stays empty.
 
 <a id="k080"></a>
 ## K080 — Surface reference only
