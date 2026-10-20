@@ -18,7 +18,7 @@ A tiny original gardener made from cork and wire stands beside a thimble-sized c
 <a id="k047"></a>
 ## K047 — Paper windows at dusk
 
-**Use:** a crafted city loop concept. **Mode:** text to video. **Brief:** 10 seconds, 16:9. **Inputs:** none.
+**Use:** a crafted city scene. **Mode:** text to video. **Brief:** 10 seconds, 16:9. **Inputs:** none.
 
 ```text
 A row of five paper houses stands on a dark blue cardboard base. As dusk deepens, a warm light appears inside each house from left to right, with a short pause between houses. A small paper cat silhouette crosses the foreground and sits outside the middle house. Move the camera slowly sideways without changing scale. Preserve visible folded edges, cutout windows, and paper texture. Hear soft paper footsteps and distant evening ambience. Finish with all five windows lit and the cat still. No text, speech, or music.

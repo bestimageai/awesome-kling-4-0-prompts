@@ -57,7 +57,7 @@ An adult ceramic artist sits at a workbench, shown in a locked close-up. An off-
 @Image1 defines the adult on the left in a mustard jacket. @Image2 defines the adult in the center in a gray shirt. @Image3 defines the adult on the right in a navy coat. Keep their faces and clothing distinct. They stand at a park path junction in a fixed medium-wide view. The left person points left and says, "This way?" The center person checks the two paths and says, "The quieter one." The right person looks right, nods, and says, "Then over here." They all turn toward the right path but remain in frame. Give each line a separate turn. Hear birds and soft footsteps. No subtitles or music.
 ```
 
-**Adjust:** setting and clothing references. **Review:** exactly three identities; pointing and exit direction agree; voices do not swap.
+**Adjust:** setting and clothing references. **Review:** exactly three identities; the left person first points left, then all three turn toward the right path while staying in frame; voices do not swap.
 
 <a id="k033"></a>
 ## K033 — A Japanese thank-you

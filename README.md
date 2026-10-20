@@ -15,20 +15,23 @@ English · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) ·
 
 ## Find a scene for your project
 
-| Your goal | Start here | What you will direct |
-|---|---|---|
-| Tell a small story | [Cinematic stories](prompts/cinematic-stories.md) | A decision, a physical event, and an ending |
-| Show a product clearly | [Product films](prompts/product-films.md) | Shape, handling, material, and final composition |
-| Make a short creator clip | [Creator and social](prompts/creator-social.md) | A readable hook and a concise payoff |
-| Direct speech or expression | [Dialogue and performance](prompts/dialogue-performance.md) | Speaker turns, gaze, pauses, and reactions |
-| Keep motion readable | [Action and camera](prompts/action-camera.md) | Travel paths, contact, weight, and camera movement |
-| Build a handmade world | [Animation](prompts/animation-worlds.md) | Paper, clay, textile, glass, and original characters |
-| Film a tactile process | [Food and craft](prompts/food-craft.md) | Material changes caused by visible contact |
-| Create atmosphere | [Nature and spaces](prompts/nature-spaces.md) | Water, light, weather, and connected rooms |
-| Combine reference assets | [Omni Reference](prompts/omni-reference.md) | Separate roles for identity, scene, material, and motion |
-| Revise existing footage | [Video editing](prompts/video-editing.md) | A bounded change with source details preserved |
-| Reach a prepared composition | [Keyframes](prompts/keyframe-transitions.md) | Continuous action between important visual moments |
-| Explain or prepare a shot | [Design and education](prompts/design-education.md) | Clear shapes, simple demonstrations, and production studies |
+<table width="100%">
+<thead><tr><th>Your goal</th><th>Start here</th><th width="10000">What you will direct</th></tr></thead>
+<tbody>
+<tr><td>Tell a small story</td><td><a href="prompts/cinematic-stories.md">Cinematic stories</a></td><td>A decision, a physical event, and an ending</td></tr>
+<tr><td>Show a product clearly</td><td><a href="prompts/product-films.md">Product films</a></td><td>Shape, handling, material, and final composition</td></tr>
+<tr><td>Make a short creator clip</td><td><a href="prompts/creator-social.md">Creator and social</a></td><td>A readable hook and a concise payoff</td></tr>
+<tr><td>Direct speech or expression</td><td><a href="prompts/dialogue-performance.md">Dialogue and performance</a></td><td>Speaker turns, gaze, pauses, and reactions</td></tr>
+<tr><td>Keep motion readable</td><td><a href="prompts/action-camera.md">Action and camera</a></td><td>Travel paths, contact, weight, and camera movement</td></tr>
+<tr><td>Build a handmade world</td><td><a href="prompts/animation-worlds.md">Animation</a></td><td>Paper, clay, textile, glass, and original characters</td></tr>
+<tr><td>Film a tactile process</td><td><a href="prompts/food-craft.md">Food and craft</a></td><td>Material changes caused by visible contact</td></tr>
+<tr><td>Create atmosphere</td><td><a href="prompts/nature-spaces.md">Nature and spaces</a></td><td>Water, light, weather, and connected rooms</td></tr>
+<tr><td>Combine reference assets</td><td><a href="prompts/omni-reference.md">Omni Reference</a></td><td>Separate roles for identity, scene, material, and motion</td></tr>
+<tr><td>Revise existing footage</td><td><a href="prompts/video-editing.md">Video editing</a></td><td>A bounded change with source details preserved</td></tr>
+<tr><td>Reach a prepared composition</td><td><a href="prompts/keyframe-transitions.md">Keyframes</a></td><td>Continuous action between important visual moments</td></tr>
+<tr><td>Explain or prepare a shot</td><td><a href="prompts/design-education.md">Design and education</a></td><td>Clear shapes, simple demonstrations, and production studies</td></tr>
+</tbody>
+</table>
 
 ## Official Kling 4.0 examples
 
@@ -72,31 +75,37 @@ A continuous ten-second medium-wide shot inside a small umbrella repair shop aft
 
 ## More scenes worth trying
 
-| Scene | Starting material | Creative challenge |
-|---|---|---|
-| [K010 — The magnetic bookmark](prompts/product-films.md#k010) | Approved first image | Keep a hinge and page contact visible |
-| [K032 — Three people, one route](prompts/dialogue-performance.md#k032) | Three portraits | Preserve identities and line ownership |
-| [K076 — Camera path around a sculpture](prompts/omni-reference.md#k076) | Sculpture, courtyard, camera clip | Transfer movement without transferring the subject |
-| [K082 — Remove a foreground shopping bag](prompts/video-editing.md#k082) | Existing storefront footage | Reconstruct a small region while retaining the shot |
-| [K095 — Three poses at the window](prompts/keyframe-transitions.md#k095) | Three compatible portraits | Turn prepared poses into continuous movement |
-| [K108 — A focus handoff](prompts/design-education.md#k108) | Written scene | Change focus while keeping geometry fixed |
+<table width="100%">
+<thead><tr><th>Scene</th><th>Starting material</th><th width="10000">Creative challenge</th></tr></thead>
+<tbody>
+<tr><td><a href="prompts/product-films.md#k010">K010 — The magnetic bookmark</a></td><td>Approved first image</td><td>Keep a hinge and page contact visible</td></tr>
+<tr><td><a href="prompts/dialogue-performance.md#k032">K032 — Three people, one route</a></td><td>Three portraits</td><td>Preserve identities and line ownership</td></tr>
+<tr><td><a href="prompts/omni-reference.md#k076">K076 — Camera path around a sculpture</a></td><td>Sculpture, courtyard, camera clip</td><td>Transfer movement without transferring the subject</td></tr>
+<tr><td><a href="prompts/video-editing.md#k082">K082 — Remove a foreground shopping bag</a></td><td>Existing storefront footage</td><td>Reconstruct a small region while retaining the shot</td></tr>
+<tr><td><a href="prompts/keyframe-transitions.md#k095">K095 — Three poses at the window</a></td><td>Three compatible portraits</td><td>Turn prepared poses into continuous movement</td></tr>
+<tr><td><a href="prompts/design-education.md#k108">K108 — A focus handoff</a></td><td>Written scene</td><td>Change focus while keeping geometry fixed</td></tr>
+</tbody>
+</table>
 
 ## Full collection
 
-| Collection | Recipes | IDs |
-|---|---:|---|
-| [Cinematic stories](prompts/cinematic-stories.md) | 9 | K001–K009 |
-| [Product films](prompts/product-films.md) | 9 | K010–K018 |
-| [Creator and social videos](prompts/creator-social.md) | 9 | K019–K027 |
-| [Dialogue and performance](prompts/dialogue-performance.md) | 9 | K028–K036 |
-| [Action and camera movement](prompts/action-camera.md) | 9 | K037–K045 |
-| [Animation and miniature worlds](prompts/animation-worlds.md) | 9 | K046–K054 |
-| [Food and craft](prompts/food-craft.md) | 9 | K055–K063 |
-| [Nature, travel, and spaces](prompts/nature-spaces.md) | 9 | K064–K072 |
-| [Omni Reference direction](prompts/omni-reference.md) | 9 | K073–K081 |
-| [Bounded video edits](prompts/video-editing.md) | 9 | K082–K090 |
-| [Keyframes and transitions](prompts/keyframe-transitions.md) | 9 | K091–K099 |
-| [Design, explanation, and production studies](prompts/design-education.md) | 9 | K100–K108 |
+<table width="100%">
+<thead><tr><th width="10000">Collection</th><th>Recipes</th><th>IDs</th></tr></thead>
+<tbody>
+<tr><td><a href="prompts/cinematic-stories.md">Cinematic stories</a></td><td align="right">9</td><td>K001–K009</td></tr>
+<tr><td><a href="prompts/product-films.md">Product films</a></td><td align="right">9</td><td>K010–K018</td></tr>
+<tr><td><a href="prompts/creator-social.md">Creator and social videos</a></td><td align="right">9</td><td>K019–K027</td></tr>
+<tr><td><a href="prompts/dialogue-performance.md">Dialogue and performance</a></td><td align="right">9</td><td>K028–K036</td></tr>
+<tr><td><a href="prompts/action-camera.md">Action and camera movement</a></td><td align="right">9</td><td>K037–K045</td></tr>
+<tr><td><a href="prompts/animation-worlds.md">Animation and miniature worlds</a></td><td align="right">9</td><td>K046–K054</td></tr>
+<tr><td><a href="prompts/food-craft.md">Food and craft</a></td><td align="right">9</td><td>K055–K063</td></tr>
+<tr><td><a href="prompts/nature-spaces.md">Nature, travel, and spaces</a></td><td align="right">9</td><td>K064–K072</td></tr>
+<tr><td><a href="prompts/omni-reference.md">Omni Reference direction</a></td><td align="right">9</td><td>K073–K081</td></tr>
+<tr><td><a href="prompts/video-editing.md">Bounded video edits</a></td><td align="right">9</td><td>K082–K090</td></tr>
+<tr><td><a href="prompts/keyframe-transitions.md">Keyframes and transitions</a></td><td align="right">9</td><td>K091–K099</td></tr>
+<tr><td><a href="prompts/design-education.md">Design, explanation, and production studies</a></td><td align="right">9</td><td>K100–K108</td></tr>
+</tbody>
+</table>
 
 
 The catalog counts **108 unique creative recipes**. Translations of the shared sample and the 12 official example groups are counted separately. Each recipe has a stable ID, complete prompt, input description, adjustable details, and review target. Original recipes are not labeled as tested model outputs.
@@ -113,11 +122,14 @@ The [prompting guide](docs/prompting-guide.md) explains how to describe camera, 
 
 Start from the material you already have:
 
-| Starting point | Model page | Useful for |
-|---|---|---|
-| A written idea | [Kling 4.0 Text to Video](https://bestimage.ai/models/kuaishou/kling-4-0-text-to-video/) | Stories, social concepts, atmosphere, and animation |
-| An approved image | [Kling 4.0 Image to Video](https://bestimage.ai/models/kuaishou/kling-4-0-image-to-video/) | Product movement, portraits, and composition-led scenes |
-| An application workflow | [bestimage.ai documentation](https://bestimage.ai/docs/) | Model documentation and integration guidance |
+<table width="100%">
+<thead><tr><th>Starting point</th><th>Model page</th><th width="10000">Useful for</th></tr></thead>
+<tbody>
+<tr><td>A written idea</td><td><a href="https://bestimage.ai/models/kuaishou/kling-4-0-text-to-video/">Kling 4.0 Text to Video</a></td><td>Stories, social concepts, atmosphere, and animation</td></tr>
+<tr><td>An approved image</td><td><a href="https://bestimage.ai/models/kuaishou/kling-4-0-image-to-video/">Kling 4.0 Image to Video</a></td><td>Product movement, portraits, and composition-led scenes</td></tr>
+<tr><td>An application workflow</td><td><a href="https://bestimage.ai/docs/">bestimage.ai documentation</a></td><td>Model documentation and integration guidance</td></tr>
+</tbody>
+</table>
 
 [bestimage.ai](https://bestimage.ai/) connects creative image and video workflows with model discovery and API documentation. Read the [creative workflow guide](docs/bestimage-workflow.md) to connect a prompt from this library to your own project.
 

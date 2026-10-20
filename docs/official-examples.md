@@ -69,10 +69,12 @@ The linked practice recipes are independently written exercises, not the prompts
 
 [Watch result](https://static--86.klingai-cdn-aws.com/kling-blog/presigned_url/d0d3136c-1bf1-4940-b24e-4d056c5e9af6_1-1.mp4) · [Full original prompt and source](https://kling.ai/quickstart/kling-4-model-user-guide) · [Try a separate original recipe](../prompts/video-editing.md#k088)
 
+The three images below belong to the single character Element referenced as `@Element1` in the original prompt, rather than three separate image inputs.
+
 - [Input video 1](https://static--78.klingai-cdn-aws.com/kling-blog/presigned_url/84cd82e3-8d57-4e41-bb95-b2cf8e035a9e_1-1-1.mp4)
-- [Reference image 1](https://static-69.klingai-cdn-aws.com/kling-blog/file_by_url/05e5537073a5b777a556a6ca1d7674084e5062c074bc7a7a2b9ee5c1b291d55c.png?x-oss-process=image/resize,w_1872)
-- [Reference image 2](https://static-96.klingai-cdn-aws.com/kling-blog/file_by_url/d75de72f10aa9c6378f0837551a337fb0e60ebe0f3b7532d0eacb10f8496eebc.png?x-oss-process=image/resize,w_1872)
-- [Reference image 3](https://static-88.klingai-cdn-aws.com/kling-blog/file_by_url/5a5caf66b2695099249e7bd573ca117d2ceec8168c1d044818f66bb97c3f8ef8.png?x-oss-process=image/resize,w_1872)
+- [Element 1 — reference image 1](https://static-69.klingai-cdn-aws.com/kling-blog/file_by_url/05e5537073a5b777a556a6ca1d7674084e5062c074bc7a7a2b9ee5c1b291d55c.png?x-oss-process=image/resize,w_1872)
+- [Element 1 — reference image 2](https://static-96.klingai-cdn-aws.com/kling-blog/file_by_url/d75de72f10aa9c6378f0837551a337fb0e60ebe0f3b7532d0eacb10f8496eebc.png?x-oss-process=image/resize,w_1872)
+- [Element 1 — reference image 3](https://static-88.klingai-cdn-aws.com/kling-blog/file_by_url/5a5caf66b2695099249e7bd573ca117d2ceec8168c1d044818f66bb97c3f8ef8.png?x-oss-process=image/resize,w_1872)
 
 <a id="o06"></a>
 ## O06 — Character and environment replacement
